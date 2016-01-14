@@ -18,11 +18,11 @@
     ],
     "repositories": [
         {
-            "type":"git",
+            "type":"vcs",
             "url":"https://github.com/jaimz22/BinaryDriver.git"
         },
         {
-            "type":"git",
+            "type":"vcs",
             "url":"https://github.com/jaimz22/Temporary-Filesystem.git"
         }
     ],
