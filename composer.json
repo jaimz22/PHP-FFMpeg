@@ -16,6 +16,16 @@
         "homepage": "http://www.phraseanet.com/"
     }
     ],
+    "repositories": [
+        {
+            "type":"git",
+            "url":"https://github.com/jaimz22/BinaryDriver.git"
+        },
+        {
+            "type":"git",
+            "url":"https://github.com/jaimz22/Temporary-Filesystem.git"
+        }
+    ],
     "require": {
         "php"                          : ">=5.3.3",
         "alchemy/binary-driver"        : "dev-master",
